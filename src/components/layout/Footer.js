@@ -9,7 +9,7 @@ const Footer = () => {
                         <div id="footertext">
                             <i className="fa fa-copyright"></i> Samarpan Chakravarty, 
                             Created using <i className="fab fa-react" />
-                            <span className="col-md-4"><a href="https://github.com/sam308"><i className="fab fa-github"></i></a></span>
+                            <span className="col-md-4"><a href="https://github.com/sam308/Movie-Dictionary"><i className="fab fa-github"></i></a></span>
                         </div>
                     </div>
                 </div>

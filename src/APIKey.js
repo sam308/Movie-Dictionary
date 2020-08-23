@@ -1,3 +1,3 @@
 module.exports = {
-    APIKey: [YOUR_API_KEY]
+    APIKey: '7cb03232'
 };
